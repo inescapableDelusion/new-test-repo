@@ -1,6 +1,6 @@
 // this function would save the historylist of the saves, with the first element there
-
-var limit = 20;
+// I simply changed the number of the limit in the saves.
+var limit = 50;
 var historylist = [""];
 
 // let us use a counter in order to undo and redo
